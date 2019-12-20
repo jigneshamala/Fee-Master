@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Feemangement</string>
+
+    <string-array name="Study">
+        <item>BCA</item>
+        <item>MCA</item>
+        <item>ITI</item>
+        <item>BE</item>
+        <item>DE</item>
+        <item>PGDCA</item>
+        <item>ME</item>
+        <item>M.TECH</item>
+        <item>B.TECH</item>
+        <item>OTHER</item>
+    </string-array>
+
+</resources>
